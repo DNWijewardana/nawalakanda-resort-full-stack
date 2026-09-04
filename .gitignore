@@ -1,0 +1,20 @@
+# Dependencies                                                                                                      
+node_modules/                                                                                                       
+                                                                                                                    
+# Environment Variables                                                                                             
+.env                                                                                                                
+.env.*                                                                                                              
+                                                                                                                    
+# TypeScript Compiled Output                                                                                        
+dist/                                                                                                               
+build/                                                                                                              
+                                                                                                                    
+# Ignore the docs folder                                                                      
+docs/                                                                                                               
+                                                                                                                    
+# Log files                                                                                                         
+*.log                                                                                                               
+npm-debug.log*                                                                                                      
+                                                                                                                    
+# Windows system files                                                                                              
+Thumbs.db
